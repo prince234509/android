@@ -6,7 +6,7 @@
   
   <default remote="korg" revision="refs/tags/cm-7.0.0"/>
   
-  <project name="CyanogenMod/android" path="android" remote="github" />
+  <project name="prince234509/android" path="android" remote="github" />
   <project name="CyanogenMod/android_bionic" path="bionic" remote="github" />
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" remote="github" />
   <project name="CyanogenMod/android_build" path="build" remote="github" >
